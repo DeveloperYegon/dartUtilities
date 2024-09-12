@@ -30,17 +30,8 @@ void combinedApplication(String userInput) {
 }
 
 void main() {
-  // String manipulation demo
-  stringManipulation('Dart Programming');
-
-  // Collections demo
-  collectionDemo();
-
-  // File handling demo
-  fileHandling();
-
-  // Date and time demo
-  dateTimeDemo();
+ 
+ 
 
   // Combined application demo
   print('Enter a string:');
